@@ -12,7 +12,7 @@ This repository conain:
 Google Colaboratory: https://colab.research.google.com/drive/1aTD5BYUt_D0zyyvnk691BUxpCNAV2g4T?usp=sharing
 
 
-RStudio Connect: 
+RStudio Connect: https://beta.rstudioconnect.com/content/1efd51e0-6f58-4c6f-acdb-3c6fee3f9982
 
 RStudio Cloud: https://rstudio.cloud/spaces/225736/project/3714710
 
